@@ -40,6 +40,7 @@ Cinderella added
 
 
 ===================================
+
 Big, PG-13, 2
 
 Star Wars, PG, 5
@@ -47,11 +48,13 @@ Star Wars, PG, 5
 Cinderella, PG, 7
 
 ===================================
+
 Cinderella already exists
 
 Ice Age added
 
 ===================================
+
 Big, PG-13, 2
 Star Wars, PG, 5
 Cinderella, PG, 7
