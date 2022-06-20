@@ -56,8 +56,11 @@ Ice Age added
 ===================================
 
 Big, PG-13, 2
+
 Star Wars, PG, 5
+
 Cinderella, PG, 7
+
 Ice Age, PG, 12
 ===================================
 
