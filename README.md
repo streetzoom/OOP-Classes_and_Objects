@@ -33,16 +33,22 @@ Sample run
 Sorry, no movies to display
 
 Big added
+
 Star Wars added
+
 Cinderella added
+
 
 ===================================
 Big, PG-13, 2
-Star Wars, PG, 5
-Cinderella, PG, 7
-===================================
 
+Star Wars, PG, 5
+
+Cinderella, PG, 7
+
+===================================
 Cinderella already exists
+
 Ice Age added
 
 ===================================
@@ -53,13 +59,17 @@ Ice Age, PG, 12
 ===================================
 
 Big watch incremented
+
 Ice Age watch incremented
 
 ===================================
 
 Big, PG-13, 3
+
 Star Wars, PG, 5
+
 Cinderella, PG, 7
+
 Ice Age, PG, 13
 
 ===================================
